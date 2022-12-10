@@ -1,0 +1,17 @@
+{
+    "user": "20AHXA10", //xgugugu是我的用户名，改成你自己的
+    "repo": "fing", //blog是我网站的仓库名，改成你自己的
+    "url": "https://qingfeng.github.io/blog/", //改成你的网站地址
+    "title": "qingfeng 小站",  //改成你需要的网站标题
+    "menu": [ //一个数组，表示菜单从右至左的信息，不需要可以把"["和"]"之间的内容全部删除
+        {
+            "name": "文章", //菜单名称
+            "url": "https://xgugugu.github.io/blog/" //菜单指向的链接
+        },
+        {
+            "name": "主页",
+            "url": "https://xgugugu.github.io/home/"
+        }
+    ]
+}
+ 
